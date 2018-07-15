@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="sub_header">How well do you know about java?</string>
+    <string name="question1">1. What is the name of the java before?</string>
+    <string name="question2">2. Which of the following are datatypes in java?</string>
+    <string name="checkbox_int">int</string>
+    <string name="checkbox_float">float</string>
+    <string name="checkbox_super">super</string>
+    <string name="question3">3. Which of the following keyword is used to define packages?</string>
+    <string name="packag">Package</string>
+    <string name="pack">pack</string>
+    <string name="pkg">pkg</string>
+    <string name="none_of_above">None of Above</string>
+    <string name="question4">4. which term not related to java?</string>
+    <string name="clas">Class</string>
+    <string name="object">Object</string>
+    <string name="door">door</string>
+    <string name="question5">5. Which of the following is super class of all exceptions?</string>
+    <string name="exception">Exception</string>
+    <string name="error">Error</string>
+    <string name="throwable">Throwable</string>
+    <string name="thiss">This</string>
+    <string name="evaluate_button">Result</string>
+    <string name="reset_button">Reset</string>
+</resources>
+
